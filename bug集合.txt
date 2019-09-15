@@ -2,3 +2,4 @@ LED灯小的那端是正的；
 OpenCV的图像处理不能超出原图的大小
 可以不namewindows
 git要remote
+ok
